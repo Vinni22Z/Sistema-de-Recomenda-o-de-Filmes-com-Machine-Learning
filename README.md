@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
+
 
 Este projeto constrói um modelo de classificação capaz de prever se um usuário vai **Gostar** ou **Não Gostar** de um filme específico, utilizando filtragem colaborativa baseada em histórico de notas.
 
